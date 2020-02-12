@@ -1,6 +1,6 @@
 # Flutter Quote App Demo by using API
 
-A new Flutter application.
+Simple Flutter app to retrieve and display a quote of the day
 
 ## Getting Started
 
